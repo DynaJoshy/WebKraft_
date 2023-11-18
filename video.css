@@ -60,12 +60,12 @@
     text-decoration: none;
   }
   a:link {
-    color: red;
+    color: rgb(36, 34, 97;
   }
   
   /* visited link */
   a:visited {
-    color: rgb(36, 34, 97);
+    color: rgb(36, 34, 97;
   }
   
   /* mouse over link */
